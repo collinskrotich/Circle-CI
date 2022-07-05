@@ -19,7 +19,7 @@ jobs:
       - checkout
       - run:
           name: "Say hello"
-          command: "echo Hello,"
+          command: "echo Mafi"
   say-world:
     docker:
       - image: cimg/base:stable
